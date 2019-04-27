@@ -7,3 +7,28 @@ div.container {
 .fill-remaining-space {
   flex: 1 1 auto;
 }
+
+form.normal-form {
+  margin: 10px;
+}
+
+.controlers-container {
+  width: 100%;
+  padding: 5px;
+}
+
+.controlers-container > * {
+  width: 100%;
+}
+
+.bottom-padding {
+  padding-bottom: 10px;
+}
+
+mat-radio-group mat-radio-button {
+  margin-left: 5px;
+}
+
+.button-row button {
+  margin: 5px;
+}
